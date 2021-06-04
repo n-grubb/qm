@@ -1,7 +1,7 @@
 # qm
 A component library for React &amp; Vue. Designed to be simple & accessible, with convenient styling defaults
 
-> This component library is designed for personal use and is very much a work-in-progress. The packages are not available yet. I plan to continue to contribute to it and get it in a working state as I find time.
+> This component library is designed for personal use and is very much a work-in-progress. The packages are not publicly available at this time. I plan to continue to port components from [Toolbox](https://github.com/n-grubb/toolbox) over here and build out this library as I have time.
 
 ## Goals
 - **Simply semantic**: Most component libraries are designed to handle every use case (which is great!) but the html output tends to turn into a bowl of <div> soup. This component library is different: it is designed to generate semantic html and takes advantage of advanced CSS techniques to keep the markdown lean.
