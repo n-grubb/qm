@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+/packages/**/node_modules
+
+# production
+/build
+/packages/**/dist
+/dist
+/packages/**/dist
+
+# misc
+.DS_Store
+.cache
+
+# local env files
+*.local
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

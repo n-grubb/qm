@@ -1,0 +1,22 @@
+{
+  "name": "@quartermaster/vue",
+  "version": "0.1.0",
+  "author": {
+    "name": "Noah Grubb",
+    "email": "noah@noahgrubb.com"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.4",
+    "sass": "^1.32.8",
+    "sass-loader": "^11.0.1",
+    "vite": "^2.1.5"
+  }
+}

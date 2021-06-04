@@ -1,0 +1,18 @@
+{
+  "name": "quartermaster",
+  "version": "0.1.0",
+  "description": "Quartermaster is a toolbox of styles, components, mixins, & utils.",
+  "author": {
+    "name": "Noah Grubb",
+    "email": "noah@noahgrubb.com"
+  },
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "vue": "yarn workspace @quartermaster/vue",
+    "react": "yarn workspace @quartermaster/react",
+    "common": "yarn workspace @quartermaster/common"
+  }
+}
