@@ -14,4 +14,4 @@ A component library for React &amp; Vue. Designed to be simple & accessible, wit
 Purely for my own entertainment. Rather than focusing on one I want to keep my skills sharp in both frameworks and sometimes grab different tools for different uses. I want this project to support both ecosystems.
 
 #### Why "qm"?
-qm stands for Quartermaster as I envision this project being something I can use to provision future personal applications for success. I created a WordPress theming system under the same name so it's a continuation of the same "brand".  
+qm stands for Quartermaster as I envision this project being something I can use to provision future personal applications for success. Years ago, I labeled a WordPress theming system under the same name so it's a continuation of the same idea for me.  
